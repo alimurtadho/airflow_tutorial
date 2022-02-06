@@ -1,0 +1,32 @@
+# editor
+.idea/
+.vscode/
+
+# python cache
+__pycache__
+*.pyc
+.mypy_cache
+
+# misc
+.coverage
+
+# docs
+docs/
+docs/build
+
+# static directory
+#static/*
+!static/.gitkeep
+
+#.env
+.envrc
+/rest/.env
+/uploads
+env
+venv
+nohup.out
+tags
+.env
+
+# sonar
+.scannerwork
